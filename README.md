@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jvictor12
 - 👀 I’m interested in estágios os trabalhos menores
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NodeJS, Java 
 - 💞️ I’m looking to collaborate em Back-end 
 - 📫 How to reach me 01joaovictordvp@gmail.com
 
