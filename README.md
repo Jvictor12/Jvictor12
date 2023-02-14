@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jvictor12
 - 👀 I’m interested in internship and job for junior.
-- 🌱 I’m currently learning NodeJS, Java, Spring Boot.
+- 🌱 I’m currently learning Java, Spring Boot.
 - 💞️ I’m looking to collaborate with Back-end using Java, JPA, Spring Boot. 
 - 📫 How to reach me 01joaovictordvp@gmail.com.
 
