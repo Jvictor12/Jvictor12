@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jvictor12
-- 👀 I’m interested in Java, Spring Boot, PostgreSQL.
+- 👀 I’m interested in Java, Spring Boot.
 - 🌱 I’m currently learning microservices
 - 📫 How to reach me 01joaovictordvp@gmail.com | (74) 9 8875-2030.
 
