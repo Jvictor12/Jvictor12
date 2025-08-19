@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jvictor12
 - 👀 I’m interested in Java, Spring Boot, AI Automations.
-- 🌱 I’m currently learning LLMs and optimizing my codes. 
+- 🌱 I’m currently docker and kubernetes. 
 - 📫 How to reach me 01joaovictordvp@gmail.com | (74) 9 8875-2030.
 
 <!---
